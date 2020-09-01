@@ -1,0 +1,6 @@
+{
+  "message": "hello {msg} !",
+  "name": "Danny Wang",
+  "hobby": "Coding & Teaching",
+  "brothers": "no brothers | one brother | {count} brothers"
+}
